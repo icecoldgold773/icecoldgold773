@@ -2,8 +2,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=icecoldgold773&theme=dark" alt="icecoldgold773" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=icecoldgold773&show_icons=true&theme=dark&locale=en" alt="icecoldgold773" /></p>
-
 ### Programming Languages
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
