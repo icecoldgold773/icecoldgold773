@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Mikkel+Tygesen;icecoldgold773)]
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Mikkel+Tygesen;icecoldgold773)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=icecoldgold773&theme=dark" alt="icecoldgold773" /></p>
 
