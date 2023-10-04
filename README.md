@@ -1,6 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Mikkel+Tygesen;mtygesen)
 
-[![]([https://github-readme-streak-stats.herokuapp.com?user=mtygesen&theme=radical](https://streak-stats.demolab.com/?user=mtygesen&theme=radical))])
+![](https://streak-stats.demolab.com/?user=mtygesen&theme=radical)
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
